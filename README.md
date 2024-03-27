@@ -2,7 +2,7 @@
 
 * 📚 I am a third year computer science student at the University of British Columbia.  
 * 🖥 I am most interested in full-stack development, data science, and databases.  
-* 👤 Learn more about me on my [personal portfolio](https://zhujhj.github.io).  
+* 👤 Learn more about me on my [personal website](https://zhujhj.github.io).  
 * 👨‍💻 Connect with me on [LinkedIn](https://linkedin.com/in/jason-zhu4)!  
 
 <!--
